@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on *some good open source project*
 
-- 💬 Ask me about *JAVA,SQL,HTML,CSS,JS*
+- 💬 Ask me about **JAVA,SQL,HTML,CSS,JS**
 
 - 📫 How to reach me *bhosalepranav2002@gmail.com*
 
