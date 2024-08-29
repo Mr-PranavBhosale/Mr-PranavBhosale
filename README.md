@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragpatil-23&label=Profile%20views&color=0e75b6&style=flat" alt="chiragpatil-23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-PranavBhosale&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-PranavBhosale" /> </p>
 
 - 🌱 I’m currently learning *Spring* 
 
