@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhosale</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Mr-PranavBhosale/Mr-PranavBhosale-assets/main/code-secret.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Mr-PranavBhosale/Mr-PranavBhosale-assets/main/hack-hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-PranavBhosale&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-PranavBhosale" /> </p>
 
